@@ -20,4 +20,4 @@ config/windows_native_icon="res://icon.ico"
 
 [display]
 
-window/size/mode=3
+window/size/mode=2
